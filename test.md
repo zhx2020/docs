@@ -1,2 +1,1 @@
-hello -master
-hello -dev
+hello world!
