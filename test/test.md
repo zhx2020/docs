@@ -1,2 +1,1 @@
-hello world!
-Hello Nginx!
+hello world!Hello Nginx!
